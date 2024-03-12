@@ -42,7 +42,7 @@
 ###
 
 <div align="center">
-  <a href="https://adilpekel.github.io" target="blank"><img src="https://img.shields.io/static/v1?message=Personal Portfolio&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://adilpekel.com" target="blank"><img src="https://img.shields.io/static/v1?message=Personal Portfolio&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 </div>
 
 <br clear="both">
